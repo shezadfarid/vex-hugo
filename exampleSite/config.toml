@@ -1,5 +1,5 @@
 baseurl = "http://sapphireworks.netlify.com/"
-disableLanguages = []
+disableLanguages = ["FR"]
 googleAnalytics = "UA-83585208-1"
 summarylength = "20"
 theme = "vex-hugo"
