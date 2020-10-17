@@ -18,7 +18,7 @@ languageName = "Fr"
 weight = 2
 [[menu.footer]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "Privacy Policy1"
 weight = 4
 [[menu.footer]]
 URL = "terms-conditions"
@@ -34,7 +34,7 @@ name = "Blog"
 weight = 1
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contact1"
 weight = 5
 [[menu.main]]
 URL = "testimonial"
