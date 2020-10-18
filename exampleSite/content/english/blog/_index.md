@@ -1,5 +1,5 @@
 ---
-title: Our Latest Post1
+title: Our Latest Post
 description: this is a meta description
 
 ---
