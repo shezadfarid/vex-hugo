@@ -3,7 +3,7 @@ disableLanguages = ["FR"]
 googleAnalytics = "UA-83585208-1"
 summarylength = "20"
 theme = "vex-hugo"
-title = "SapphireWorks | Test"
+title = "SapphireWorks "
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
