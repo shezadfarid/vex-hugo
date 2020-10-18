@@ -17,7 +17,7 @@ features:
   image: images/watch-2.png
   left_side:
   - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
+    icon: tf-ion-ios-cloud-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
