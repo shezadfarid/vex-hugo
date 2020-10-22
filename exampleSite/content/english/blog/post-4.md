@@ -6,5 +6,3 @@ description: this is a meta description
 
 ---
 Test
-
-{{< youtube w7Ft2ymGmfc >}}
