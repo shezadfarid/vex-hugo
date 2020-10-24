@@ -16,28 +16,28 @@ features:
   title: Our Core Services
   image: images/watch-2.png
   left_side:
-  - title: Personalized Service
+  - title: System Design
     icon: tf-ion-ios-cloud-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Customized Solutions
+  - title: Cloud Solutions
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: Infrastructure Setup
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
+  - title: Web Development
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: Mobile App Development
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: Digital Marketing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
