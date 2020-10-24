@@ -2,7 +2,7 @@ baseurl = "http://sapphireworks.netlify.com/"
 disableLanguages = ["FR"]
 googleAnalytics = "UA-83585208-1"
 summarylength = "20"
-theme = "Test theme"
+theme = "SapphireWorks"
 title = "SapphireWorks "
 [Languages.en]
 contentDir = "content/english"
