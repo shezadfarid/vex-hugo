@@ -21,11 +21,11 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: System Design
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-loop
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Infrastructure Setup
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-network
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
@@ -34,11 +34,11 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Mobile App Development
-    icon: tf-ion-ios-bell-outline
+    icon: tf-mobile
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Digital Marketing
-    icon: tf-ion-ios-cart-outline
+    icon: tf-target3
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
