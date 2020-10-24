@@ -16,11 +16,11 @@ features:
   title: Our Core Services
   image: images/watch-2.png
   left_side:
-  - title: System Design
+  - title: Cloud Solutions
     icon: tf-ion-ios-cloud-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Cloud Solutions
+  - title: System Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
