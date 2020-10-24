@@ -77,12 +77,12 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Get Updates
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Testimonials
   testimonial_item:
   - name: Jonathon Andrew
     designation: CEO, Themefisher
