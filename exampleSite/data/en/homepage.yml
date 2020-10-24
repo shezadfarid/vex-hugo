@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   title: Believe in Technology, Make the change1
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
@@ -50,7 +50,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
