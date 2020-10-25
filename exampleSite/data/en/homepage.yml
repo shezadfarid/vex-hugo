@@ -21,11 +21,11 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: System Design
-    icon: tf-ion-ios-loop
+    icon: tf-ion-network
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Infrastructure Setup
-    icon: tf-ion-network
+    icon: tf-ion-social-buffer-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
