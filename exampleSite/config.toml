@@ -45,7 +45,7 @@ URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "testimonial"
+URL = "testimonials"
 name = "Testimonials"
 pre = "#"
 weight = 4
