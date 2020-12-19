@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change2
+  title: Believe in Technology, Make the chang
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
     adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
@@ -91,7 +91,7 @@ testimonial:
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
       souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+      sense of mere tranquil existence, that I neglect my talents1.
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
@@ -99,7 +99,7 @@ testimonial:
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
       souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+      sense of mere tranquil existence, that I neglect my talents1.
   - name: Jonathon Andrew
     designation: CEO, Themefisher
     image: images/avater.png
@@ -107,4 +107,4 @@ testimonial:
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
       feel the charm of existence in this spot, which was created for the bliss of
       souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+      sense of mere tranquil existence, that I neglect my talents1.
